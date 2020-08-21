@@ -1,4 +1,4 @@
-require 'pry'
+learrequire 'pry'
 
 def new_hash
   new_hash = {}
